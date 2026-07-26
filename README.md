@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=kennyfong19931&show_icons=true&line_height=24&text_color=FFF&bg_color=2C2F33&title_color=27a7d8&icon_color=ff9a00)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=kennyfong19931&layout=compact&exclude_repo=dgdb&langs_count=8&card_width=320&text_color=FFF&bg_color=2C2F33&title_color=27a7d8&icon_color=ff9a00)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=kennyfong19931&theme=discord&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Stats](https://github-stats-extended.vercel.app/api?username=kennyfong19931&show_icons=true&line_height=24&text_color=FFF&bg_color=2C2F33&title_color=27a7d8&icon_color=ff9a00)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=kennyfong19931&layout=compact&exclude_repo=dgdb&langs_count=8&card_width=320&text_color=FFF&bg_color=2C2F33&title_color=27a7d8&icon_color=ff9a00)](https://github.com/stats-organization/github-stats-extended)
+[![trophy](https://trophy.benkou.dev/?username=kennyfong19931&theme=discord&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
